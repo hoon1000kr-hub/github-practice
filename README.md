@@ -1,2 +1,4 @@
-# github-practice
-github 수정입니다. 첫 번째 readme 수정입니다.
+# 안녕하세요 서지훈입니다
+# mbti entp
+# 취미 영화보기
+# 특기 글쓰기,여행가기
